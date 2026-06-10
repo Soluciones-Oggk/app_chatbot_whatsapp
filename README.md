@@ -1,40 +1,14 @@
-# React + TypeScript + Vite
+# app_chatbot_whatsapp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend desarrollado con:
 
-Currently, two official plugins are available:
+- React
+- TypeScript
+- Vite
+- React Router
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Instalación
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  # Dashboard Bot
-
-  Stack: React + TypeScript + Vite + React Router.
-
-  ## Requisitos
-
-  - Node.js 20 o superior
-  - npm
-
-  ## Instalación
-
-  ```bash
-  npm install
-  npm run dev
-  ```
-
-  ## Rutas útiles
-
-  - `/login` para la pantalla de acceso
-  - `/dashboard` para el panel principal
-      // other options...
+```bash
+npm install
+npm run dev
